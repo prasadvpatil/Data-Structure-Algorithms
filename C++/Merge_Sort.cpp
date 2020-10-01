@@ -3,10 +3,7 @@ using namespace std;      //For cin and cout
 
 /*
     Merge sort is an efficient, general-purpose, comparison-based sorting algorithm.
-    It is a divide and conquer algorithm that was invented by John von Neumann in 1945.
-
-    @author Aditya Saxena
-    @since 26-7-2020
+    It is a divide and conquer algorithm.
 */
 
 
