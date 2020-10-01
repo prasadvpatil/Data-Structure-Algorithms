@@ -23,9 +23,7 @@ In case you have any questions, feel free to contact me via LinkedIn. <p><a href
 
 Make sure your code works before submitting it :D
 
-### Where to upload the files
-
-**PLEASE READ THIS**
+## Where to upload the files
 
 - Your files should be uploaded directly into the corresponding folder.
 - **Under no circumstances create new folders within the language folders to upload your code unless specifically told to do so**.
