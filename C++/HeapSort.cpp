@@ -6,8 +6,6 @@ Step 2 - Transform the Binary Tree into Max Heap.
 Step 3 - Delete the root element from Max Heap 
 Step 4 - Put the deleted element into the Sorted list.
 
-@Author: Arun Kumar G
-@Created: 01/07/2020   */
 
 #include <iostream>
 using namespace std;
